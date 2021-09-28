@@ -1,1 +1,1 @@
-# akka-stream-fault-tolerance-example
+# Fault-Tolerance-Akka-Stream
